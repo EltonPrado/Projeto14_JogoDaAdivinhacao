@@ -40,10 +40,8 @@ Quer conferir e testar sua sorte no jogo?
 O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 
 - Variáveis
-- Operações matemáticas
-- Operadores comparativos
-- Condicional
 - Utilização de DOM
+- Manipulação de ventos e callbacks
 
 <br>
 
