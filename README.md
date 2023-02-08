@@ -36,7 +36,6 @@ Quer conferir e testar sua sorte no jogo?
 
 <h2> O intuito do projeto </h2>
 
-#
 
 O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 
@@ -50,7 +49,6 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 
 <h2> Tecnologias </h2>
 
-#
 
 Foi utilizado as seguintes tecnologias para desenvolver esse projeto:
 
