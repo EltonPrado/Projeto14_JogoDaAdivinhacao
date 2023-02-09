@@ -25,6 +25,8 @@ function handleTryClick(event) {
     toggleScreen()
 
     screen2.querySelector("h2").innerText = `Parabéns! Você acertou em ${xAttempts} tentativas`
+  } else if (Number(inputNumber.value) < 0 || Number(inputNumber.value) > 10) {
+    alert("O número não pode ser inserido. Digite um valor entre 0 a 10")
   }
 
   inputNumber.value = ""
