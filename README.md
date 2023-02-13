@@ -41,7 +41,7 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 
 - Variáveis
 - Utilização de DOM
-- Manipulação de ventos e callbacks
+- Manipulação de eventos e callbacks
 
 <br>
 
