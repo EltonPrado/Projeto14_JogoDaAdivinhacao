@@ -30,7 +30,7 @@ Regras básicas do jogo
 
 Quer conferir e testar sua sorte no jogo? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto10_JogoDaAdivinhacao/)
+[Visite o projeto online](https://eltonprado.github.io/Projeto14_JogoDaAdivinhacao/)
 
 <br>
 
